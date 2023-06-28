@@ -1,0 +1,23 @@
+-- vas a ir tu MYSQL y crearas una nueva base de datos con el nombre
+-- registro
+
+-- Despues agregaras en SQL este insert
+
+-- CREATE TABLE citas (
+--   id INT AUTO_INCREMENT PRIMARY KEY,
+--   tipo_documento VARCHAR(50) NOT NULL,
+--   numero_documento VARCHAR(50) NOT NULL,
+--   nombres VARCHAR(50) NOT NULL,
+--   apellidos VARCHAR(50) NOT NULL,
+--   telefono VARCHAR(20) NOT NULL,
+--   especialidad VARCHAR(50) NOT NULL,
+--   genero VARCHAR(20) NOT NULL,
+--   fecha_hora DATETIME NOT NULL,
+--   fecha_registro DATETIME NOT NULL
+-- );
+
+
+-- recuerda no copiar los "--"
+-- De ahi disfruta el formulario register
+
+-- Abre el formulario con localhost/"nombre de la carpeta"
